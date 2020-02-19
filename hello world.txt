@@ -1,1 +1,2 @@
-This is new project
+installed tile in sandbox fetched config and created pipeline instance required- currently have enabled scheduled scan which generates reports weekly- planning to move to acceptance-will be requiring same instance prior to installation in acceptance, do you want us to remove the tile from sandbox
+I noticed in healthwatch that most of the alerts are generated during timeframe x-x and all are from --- deployment related to pas.Do you have idea why this is occuring ? Do you want us to raise a pivotal ticket ?
